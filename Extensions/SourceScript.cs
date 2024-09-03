@@ -32,6 +32,7 @@ public class SourceScript : Source<OpenCV.Net.IplImage>
                         return;
                     }
 
+                    // properly stop the task when cancellation is requested / when we stop workflow in bonsai
                     while (!cancellationToken.IsCancellationRequested)
                     {
                         var frame = new Mat();
@@ -54,6 +55,7 @@ public class SourceScript : Source<OpenCV.Net.IplImage>
 
     class MatWrapper : OpenCV.Net.IplImage
     {
+        // zero-copy convert from Mat to IplImage, and assign original frame as owner to prevent GC
         readonly Mat owner;
 
         public MatWrapper(Mat frame)
