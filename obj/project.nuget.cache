@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7x1QkwazJcijc+c6AP4EpdzILWW5/a6/iXUogR7wmHhiYbdODxK4EDH3YFEhQuGyZRlji6HlagJxlrs2mJIe9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\voigtsj\\Desktop\\rtsp_3\\Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\voigtsj\\.nuget\\packages\\bonsai.core\\2.8.5\\bonsai.core.2.8.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\opencv.net\\3.4.2\\opencv.net.3.4.2.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\opencvsharp4\\4.10.0.20240616\\opencvsharp4.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\rx-core\\2.2.5\\rx-core.2.2.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\rx-interfaces\\2.2.5\\rx-interfaces.2.2.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\rx-linq\\2.2.5\\rx-linq.2.2.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\rx-platformservices\\2.2.5\\rx-platformservices.2.2.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\voigtsj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
